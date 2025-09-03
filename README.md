@@ -6,10 +6,9 @@ An Electron-based desktop application that integrates with a PHP/MySQL backend.
 
 ## 📸 Screenshot
 
-![Amazing Plans App](screenshot/ap1.png)
+![Screen 1](screenshot/ap1.png)
 ![Screen 2](screenshot/ap2.png)
 ![Screen 3](screenshot/ap3.png)
-![Screen 4](screenshot/ap4.png)
 ![Screen 5](screenshot/ap5.png)
 ![Screen 6](screenshot/ap6.png)
 ![Screen 7](screenshot/ap7.png)
