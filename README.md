@@ -4,6 +4,22 @@ An Electron-based desktop application that integrates with a PHP/MySQL backend.
 
 ---
 
+## 📄 Project Description
+
+**Amazing Plans App** is a desktop application developed as part of a university project at **Uninorte**.
+
+The application provides an intuitive interface for managing user data and interactions with a centralized database. It demonstrates key concepts in **desktop application development, client-server architecture, and database management**, offering practical experience in full-stack development within an academic environment.
+
+Key features include:
+- A modern, responsive desktop interface.
+- Integration with a MySQL database for secure data management.
+- Easy deployment as a standalone executable for Windows, macOS, and Linux.
+- Practical demonstration of Electron’s capabilities for cross-platform desktop applications.
+
+This project serves as both a learning tool and a functional application, helping students understand the end-to-end workflow of software development, from database setup to client-side deployment.
+
+---
+
 ## 📸 Screenshot
 
 ![Screen 1](screenshot/ap1.png)
@@ -52,7 +68,7 @@ npm install electron --save-dev
 
 ---
 
-### 📝 Create main.js
+## 📝 Create main.js
 ```javascript
 const { app, BrowserWindow, Menu } = require('electron');
 const path = require('path');
@@ -91,7 +107,7 @@ app.on('activate', () => {
 });
 ```
 
-### 📦 Update package.json
+## 📦 Update package.json
 ```json
 {
   "name": "amazing-plans-app",
@@ -134,13 +150,13 @@ app.on('activate', () => {
 }
 ```
 
-### 🚀 Run the Application
+## 🚀 Run the Application
 Start your Electron app:
 ```bash
 npm start
 ```
 
-### 📦 Build the Application
+## 📦 Build the Application
 1. Install `electron-builder`
 ```bash
 npm install electron-builder --save-dev
@@ -151,7 +167,7 @@ npm install electron-builder --save-dev
 npm run build
 ```
 
-### 📜 License
+## 📜 License
 This project is licensed under the **MIT License** – see the LICENSE
 
 👉 Do you want me to also generate a full **`LICENSE`** file with the MIT text, or just leave the reference in the README?
