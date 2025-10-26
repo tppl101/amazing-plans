@@ -169,5 +169,3 @@ npm run build
 
 ## 📜 License
 This project is licensed under the **MIT License** – see the LICENSE
-
-👉 Do you want me to also generate a full **`LICENSE`** file with the MIT text, or just leave the reference in the README?
