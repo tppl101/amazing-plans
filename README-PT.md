@@ -169,5 +169,3 @@ npm run build
 
 ## 📜 Licença
 Este projeto está licenciado sob a Licença MIT – veja o arquivo LICENSE.
-
-👉 Se quiser, posso gerar também a versão **completa do arquivo LICENSE** em português e inglês com o texto MIT.
